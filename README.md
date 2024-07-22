@@ -42,7 +42,7 @@ I add my account to the Domain Admins group in AD:  <br/>
 <img src="https://imgur.com/wLtidhd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Logging into the domain admin account (notice MYDOMAIN has appeared below with password):  <br/>
+Log into the domain admin account (notice MYDOMAIN has appeared below with password):  <br/>
 <img src="https://imgur.com/WyemxD2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -82,7 +82,7 @@ Here is the client computer listed in Address Leases in the DHCP and in Active D
 <img src="https://imgur.com/YYsTlHp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Here I login to the client computer with one of the 1k user credentials added via Active Directory:  <br/>
+Login to the client computer with one of the 1k user credentials added via Active Directory:  <br/>
 <img src="https://imgur.com/0Uiyam1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
